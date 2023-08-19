@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✌️, I'm **Della**</h1>
-<h3 align="center">***Started in the programming world, currently trying to learn Javascript*** 👾</h3>
+<h1 align="center">Hi ✌️, I'm Della</h1>
+<h3 align="center">Started in the programming world, currently trying to learn Javascript👾</h3>
 
 - 🐰Random fact I took singing lessons when I was a child, but I never liked singing.
 
